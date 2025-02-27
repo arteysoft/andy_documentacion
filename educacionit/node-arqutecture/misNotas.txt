@@ -1,0 +1,59 @@
+setInmidiate
+callbacks !== Asyncronous
+
+
+const Emisor = require('events')
+
+Logger extends Emisor
+
+logger.emite('evento')
+logger.on('evento', ()=>{}) // ojo que el logger es un array
+
+Es sincronico
+
+Es muy interesante como conserva la funcion de callback y agrega
+Promise utiliza la funcion de callback como ()=>{} _.identity por 
+default.
+
+usar netcat para la parte de red para el listener de net
+
+nc ip:port
+
+Se puede hacer un menu con netcat
+
+hay un modulo que es dns y tiene un metodo lookup
+
+require('os') tiene cosas interesantes.
+hay un assert en Console mirarlo.
+
+util.deprecate esta bueno
+
+el debugger, habria que mirarlo mas.
+
+Estrategias para ampliar la capacidad de procesamiento.
+   clone
+   decomposing microservicios
+   splitting
+
+4 formas de crear childProcess
+  execFile
+  spawn..... yo lo veo igual que exec veo lo mismo.
+  fork
+  exec
+
+  hay que crear un ejemplo de .pipe
+
+  para el fork, lo explica con un proceso largo. 
+  send() y process.send() el forkeado.
+
+  el cluster, lo que hace es: la estrategia de clonning pero 
+  en la misma maquina.
+  
+  el cluster crea un Master Process y Worker Process
+  usa round robin
+  para testear la performace, podemos utilizar apache benchmark
+  
+  Esta bueno el ejemplo de pluralsight, interesante.
+    
+
+

@@ -1,0 +1,128 @@
+Curso de prácticas en Java                                  Andy Vazquez
+Categoría                                                      Propuesta
+Fecha                                                           Ago 2020
+
+
+                          Curso de prácticas en Java
+                          ==========================
+
+
+Antecedentes
+------------
+
+       Doy clases de programación para la empresa en la cual trabajo 
+   desde hace unos doce años.
+       Por otra parte, doy clases de Java Standar en Educación IT desde
+   el año 2012. 
+       En estos años, en los cuales me desempeñe exclusivamente en
+   los turnos mañana y tarde, fui recolectando información y feedback de
+   los alumnos, y sus dificultades.
+
+
+
+El curso de Java Standar
+------------------------
+
+       El curso de Java Standar es complicado.
+
+       Una de las cosas más insólitas de este curso -dado que lo dicté
+   por lo menos unas 25 veces sin exagerar-, es que aún sigue siendo el
+   curso más dificil de dar. Para mostrarles esto, voy a intentar 
+   ensayar algunas hipótesis de porque pasa esto:
+
+       Expectativa de alumno: A diferencia de un curso de React, de Java
+   avanzado, mismo de NodeJs -donde los alumnos tienen en claro el scope
+   del curso-, los alumnos de Java Standar entran con una fantasía
+   erronea "hacer un curso de programación les va a permitir una
+   salida laboral, o que van a aprender a programar".
+       El curso en sí, sirve tanto para aprender a programar como para
+   tener una salida laboral. El tema es que tiene que existir una
+   relación entre teoría y práctica de por lo menos 4:1 es decir 4 horas
+   de práctica por cada hora teórica.
+
+       Carencia de conocimientos de PROGRAMACION ESTRUCTURADA: Aquellos
+   alumnos que trabajan en algún lenguaje de programación, tienen mucha
+   más facilidad para agarrar los conceptos que aquellos que NO trabajan
+   en el rubro.
+
+       Carencia total de conocimientos: Acá quisiera hacer una pequeña
+   reflexión: Si no le hacemos observar al alumno que el curso no esta 
+   pensado para NO programadores, corremos el riesgo de quedar muy 
+   expuestos, tanto los profes, como el instituto. 
+       En general este tipo de alumno, nunca termina el curso y nos 
+   califica mal, a veces con insultos.   
+
+       Desbalance en los conocimientos: Esto me pasó dando un curso para 
+   la empresa Accenture. 
+       En la primer clase, pude observar que era un grupo muy avanzados; 
+   traté entonces de adecuarme al nivel de los alumnos. Pero surjió un 
+   altercado entre los mismos empleados de Accenture. 
+       Por un lado, había dos alumnos que se aferraban al programa, es 
+   decir querían aprender a programar desde 0, por otro lado, uno diez 
+   alumnos, NO querían venir a perder el tiempo viendo que era un for().
+       Tuve que hablar con el Gerente de Accenture para ver como se 
+   podía resolver.
+
+       Dados estos antecedentes, hablé con muchos alumnos y les pareció
+   interesante proponer un curso 100% práctico. 
+
+
+
+Propuesta de un curso de prácticas y algoritmos en java.
+--------------------------------------------------------
+
+   En 2019 surjió con algunos alumnos, la idea de hacer un cruso que sea 
+   práctico, sobre todo en programación estructurada.
+
+   Que me llevo a pensar en esto? Dejo algunos ejemplos:
+
+   A un curso avanzado (Spring) de Accenture les dí un ejercicio con el
+   siguiente enunciado:
+   
+   "Quiero sacar un prestamo, y quiero saber las cuotas que voy a pagar
+   en virtud de un capital, unos intereses, y un plazo".
+   Les pase las formulas del sistema Frances, Aleman y Americano.
+   No lo pudieron hacer, en realidad no lo pudieron empezar.
+   Lo más paradójico es que algunos sabían más de Spring Framework que
+   yo dado que se pasaban el dia entero luchando con el framework.
+
+   Otro: "Dado un array con 6 elementos, cada elemento representa el 
+   índice de inflación mensual, se debe informar la inflación total".
+   No lo pudieron hacer, ni siquiera mal, es decir, ni siquiera sumando
+   los indices.
+
+   Otro: Tengo una función int suma(int x, int y) como hago para sumar
+   2, 3, 5. NO lo pueden hacer. No pueden realizar composición de
+   funciones; es decir en la secundaria vieron sen(cos(x)) pero acá
+   no pueden pensar en suma(2, suma(3,5));
+
+   Otro: Tengo unos cortes de madera lineal -que necesito-, y en la 
+   maderera venden listones de 3 Metros y de 4,10 Metros. Se debe
+   obtener la mejor combinación de listones para que el desperdicio sea
+   el menor posible. Ningún curso lo pudo resolver, lo dejé planteado
+   en tres cursos. El problema NO es tan simple como parece.           
+   
+   Otro: Una funcion que convierta de Litros a Kilos, y luego la inversa
+   de Kilos a Litros. Algo tan simple como esto parece una misión 
+   compleja.
+
+
+
+
+Conclusión inicial, y dejo abierto a ideas que podamos aportar.
+---------------------------------------------------------------
+
+   La programación estructurada, es la base de todo el edificio, si no
+   hacemos incapié en este tipo de programación, muchos alumnos se
+   frustran, abandonan tempranamente, y nos dejan comentarios fuleros.
+
+   El curso para NO programadores era una herramienta muy buena, pero
+   por algún motivo alguien que NO es programador no lo hace.
+   Ojo: yo los entiendo muchas veces soy alumno, y me salteo cursos eh.
+  
+   La idea NO es hacer una crítica de lo que los alumnos NO pueden 
+   resolver, sino mas bien hacer una autocrítica de lo que nostros
+   podemos ofrecerles.
+
+
+         

@@ -1,0 +1,41 @@
+Mi primer proyecto personal, fue un programa de "zero cupon deferred check".
+escrito en pascal (1992)
+
+Mis primera experiencia laboral fue en la industria gráfica; 
+Realicé un entorno gráfico en lenguaje c, que permitia calcular y optimizar 
+el uso de papel (1994)
+
+Luego estuve en la industra de medios de pago, a través de Point Of Sale (POS)
+en lenguaje TAL Transaction Application Language para la red nacional de ATM.
+(1996)
+
+Desde 1998 colaboro en forma independiente con una empresa de Contact Center
+Escribí un switch telefónico (from scratch). This was the most challenging experience
+in my whole career.
+
+En 2003 Empecé a desarrollar con .net 2.0. Entonces la version (ultimate) de Microsoft.
+ASP.net lenguaje c# para la misma industria de CRM ContactCenter
+
+En el período de 2005 a 2009, me dedique a realizar integraciones con plain TCP/IP; 
+SOAP XML Web Services and Rest Apis as well. 
+
+En 2010 I became a freelancer. Trabajé como instructor en empresas de desarrollo. 
+Adquirí conocimientos variados:
+
+- Scrum methodology
+- Money market and Bond calculation.
+- Mercado de futuros de cereales
+
+En lo que se refiere a tecnologias
+
+Java Spring
+Docker 
+DC/OS Data Center Operating System.
+NGINX 
+
+
+Trabaje en visa como integrador de código y en una empresa de Cableoperador
+como arquitecto de software.
+
+Desde el 2020 Trabajo haciendo coaching a alumnos, y dictando clases en 
+https://www.educacionit.com

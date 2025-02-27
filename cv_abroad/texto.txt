@@ -1,0 +1,165 @@
+Experience
+
+1991 - 1992
+Zero cupon deferred check calculator (PASCAL)
+I was responsable from gathering the requirements and develop the software
+
+1995 - 1996
+Graphic system for offset printing 
+Budget and cost for graphic industry
+I was responsable of writing the code.
+
+(c languaje)
+
+1997
+Maintenance of ATM Cash Dispensers programs
+(TAL - Transaction Aplication Languaje)
+
+1998 - 2001
+I Created a telephone switch based on 
+Dialogic Boards
+This was the most challenging project on my 
+whole career.
+(c, c++)
+My responsability was go back and forth with ideas for the brand new telephone switch.
+
+2002 - 2005
+ORION Contact Center - CyT Comunicaciones 
+Development based on
+.net framework 2.0 (c# Languaje)
+I was responsable from translating requirements into code.
+
+2005 - 2009
+Integrations for IVR Systems with SOAP, 
+REST, TCP/IP Binary protocols.
+My responsability was integrate each customer differently
+
+2010 - 2013
+IVR Graphic development platform based on 
+https://mindfusion.eu/
+javascript programming languaje
+In this project I worked close to QA on many iterations
+
+2013 - 1016
+Professor at 
+https://www.educacionit.com
+Techonolgies & Subjects:
+
+Java
+Javascript
+Java Spring Boot
+Design Patterns
+NodeJS
+
+2017
+Software integrator at Visa Argentina
+I was Responsable for continuous delivery
+
+Technologies:
+
+Microservices on
+Spring Boot over Docker Containers
+
+2018 - 2019
+Telecentro Cable Operator service provider
+My main responsability was to collect data to provide reports.
+
+Development on bash
+Dev. on javascript for Opera TV browser
+Integration with rest api 
+https://www.reportvla.com.ar/
+
+2019 - now
+Professor at
+https://www.educacionit.com
+
+Technologies
+
+Java
+Java Spring
+Spring Web
+Spring Security
+Srping AOP
+Vanilla javascript
+React
+
+
+Studies and Certificates
+
+NCR (IMAGEN) - 1992
+TOEFL (IMAGEN) -  1998
+UNIVERSIDAD KENNEDY - 2006
+ORACLE CERTIFIED ASOCIATE - 2014
+
+
+Bibliography (Personal Preference Books)
+
+Thinking in Java - Bruce Eckel  
+Java 8 Action - Raoul-Gabriel Urma
+Functional Javascript - Michael Fogus
+Javascript: The Good Parts - Douglas Crockford
+Dependency Injection in .NET - Mark Seemann
+Adaptative Code via c# - Gary McLean Hall
+The Art of Immutable Architecture - Michael L. Perry
+JavaScript THE NEW TOYS - T.J. Crowder
+
+Following
+
+Erik Meijer
+Nicholas C. Zakas
+Richard Hickey
+Robert C. Martin 
+Ryan Dahl 
+
+
+Technology Stack
+
+- Backend
+
+Node
+Spring Boot
+
+- Database
+
+MySQL
+MSSQL
+MongoDB
+Couchbase
+Redis
+
+- Front
+
+Javascript
+HTML 5
+React
+
+- Messaging
+
+Kafka
+
+- Version Control
+
+gitHub
+
+- Containerization
+
+Docker
+
+- CI/CD
+
+Jenkins
+
+- Tools
+
+Visual Studio code
+InteliJ IDEA
+SSMS Managment studio
+MySQL WorkBench
+Virtual Box
+Postman
+
+
+
+
+
+

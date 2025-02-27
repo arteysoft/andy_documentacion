@@ -1,0 +1,67 @@
+-----------------------------------------
+C L A S E   1
+-----------------------------------------
+Api rest con postman. Usando body parser.
+Express
+  Separar la vista, router, modelodatos.
+mockapi.com
+   Router, api, y modelo.
+Reemplazo parcial de datos.
+
+Normalizer ? Para que es ?
+
+@hapi/joy retornar 400 por ejemplo.
+-----------------------------------------
+C L A S E   2
+-----------------------------------------
+Sessiones con cookies, session, filestorage, redistorage.
+Como persistencia para las sessiones de usuarios.
+
+ttl para que expire.
+contador de visitas por ejemplo.
+-----------------------------------------
+C L A S E   3
+-----------------------------------------
+Autenticacion y Authorizacion 
+Passport login con redes sociales.
+
+Process / propiedades, metodos y eventos.
+
+child process: proceso interno, en un hilo.
+fork, exec, exec_file, spawn
+-----------------------------------------
+C L A S E   4
+-----------------------------------------
+Cluster de node, distribuir internamente
+distribuye la carga, todos escucha en el mismo port.
+
+forever, pm2 vigilar si se cae.
+explicar que es un nodemon y mas avanzado.
+
+Process Manager 2 (En principio es como un forever)
+En modo fork y en modo cluster
+-----------------------------------------
+C L A S E   5
+-----------------------------------------
+Agarro el pm2 y hay un dependencia
+artillerie, evaluar servidores.
+
+Logging log4js
+proxy reverso nginx balanceo de carga
+nginx repartido de carga, en la instancia de fork.
+1 de cada 4 requerimientos. cada instancia atiendo cada request.
+-----------------------------------------
+C L A S E   6
+-----------------------------------------
+Deploy AWS, Ultimo pdf de curso.
+Dinamo DB.
+
+NodeMailer con GMAIL / Permita aplicaciones poco
+seguras.
+-----------------------------------------
+
+
+
+
+
+
